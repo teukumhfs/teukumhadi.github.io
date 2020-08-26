@@ -103,17 +103,17 @@ a img {
 /*  background-color: #D57878; original color #c2ad68*/
   background-color: #eee;
   height: 256px; 
-  margin-top:-30px;
+  margin-top: -30px; /*-30px*/
 }
 
 #about p {
   text-align: center;
-  padding-top: 100px; /*original 60px*/
+  padding-top: 100px; /*original 60px; 100 px*/
   font-family: 'Monaco', 'Courier New'; /*'Karla', sans-serif*/
   letter-spacing: 0; /*0.3em*/
   font-weight: 400;
   color: #383737; /*hello world text; ori color #fafafa*/
-  font-size: 20px;
+  font-size: 25px;
   text-transform: lowercase; /*uppercase*/
 }
 
