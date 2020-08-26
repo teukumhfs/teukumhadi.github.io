@@ -108,7 +108,7 @@ a img {
 
 #about p {
   text-align: center;
-  padding-top: 60px;
+  padding-top: 100px; /*original 60px*/
   font-family: 'Monaco', 'Courier New'; /*'Karla', sans-serif*/
   letter-spacing: 0; /*0.3em*/
   font-weight: 400;
