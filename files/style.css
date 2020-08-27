@@ -103,12 +103,13 @@ a img {
 /*  background-color: #D57878; original color #c2ad68*/
   background-color: #eee;
   height: 256px; 
-  margin-top: -30px; /*-30px*/
+  margin-top: -20px; /*-30px*/
+  margin-bottom: 30px
 }
 
 #about p {
   text-align: center;
-  padding-top: 75px; /*original 60px; 100 px*/
+  padding-top: 50px; /*original 60px; 100 px*/
   font-family: 'Monaco', 'Courier New'; /*'Karla', sans-serif*/
   letter-spacing: 0; /*0.3em*/
   font-weight: 400;
