@@ -108,13 +108,13 @@ a img {
 
 #about p {
   text-align: center;
-  padding-top: 90px; /*original 60px; 100 px*/
+  padding-top: 75px; /*original 60px; 100 px*/
   font-family: 'Monaco', 'Courier New'; /*'Karla', sans-serif*/
   letter-spacing: 0; /*0.3em*/
   font-weight: 400;
   color: #383737; /*hello world text; ori color #fafafa*/
   font-size: 25px;
-  text-transform: lowercase; /*uppercase*/
+  text-transform: none; /*uppercase*/
 }
 
 
@@ -486,6 +486,10 @@ ul.toc {
   display: block;
   text-align: right;
   margin-right: 20px;
+}
+
+#about p {
+  font-size: 17px;
 }
 
 #header .nav {
